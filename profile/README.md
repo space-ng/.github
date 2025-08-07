@@ -1,7 +1,6 @@
 # Space-ng
 
-Official GitHub organization for Space-ng.  
-🔗 Website: [https://www.space-ng.com/](https://www.space-ng.com/)
+Official GitHub organization for [Space-ng](https://www.space-ng.com/).
 
 ## SDK Access
 
