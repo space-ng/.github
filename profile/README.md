@@ -10,5 +10,5 @@ Once you have been approved, you'll be invited to:
 
 - Engage in our [Sol3-SDK Repository](https://github.com/space-ng/sol3-sdk)
 - View our [Documentation](https://ubiquitous-disco-8jm4ev4.pages.github.io/)
-- Participate in our [Discussion Forums](https://github.com/orgs/space-ng/discussions)
+- Participate in our [Discussion Forums](https://github.com/space-ng/sol3-sdk/discussions)
 - File [Tickets](https://github.com/space-ng/sol3-sdk/issues)
